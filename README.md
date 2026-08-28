@@ -4,11 +4,8 @@
 
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
-A complete, resume-ready Anti-Money Laundering (AML) transaction monitoring and alert triage
+A complete, Anti-Money Laundering (AML) transaction monitoring and alert triage
 pipeline, built entirely with **DB Browser for SQLite** and **Tableau Public** (both free).
-
-No coding experience, SQL knowledge, or AML background required — every term is defined
-the first time it's used, and every step is numbered.
 
 ---
 
@@ -337,40 +334,6 @@ aml-triage-pipeline/
 All of the above files are provided alongside this guide — download them, drop them into
 this folder structure, then run `git init`, `git add .`, `git commit -m "Initial AML triage
 pipeline"`, and push to a new GitHub repository.
-
----
-
-## Step 8: LinkedIn post + resume bullets
-
-### LinkedIn post caption (under 150 words)
-> 🔍 New project: I built an end-to-end AML Transaction Monitoring & Alert Triage Pipeline
-> from scratch — using SQL and Tableau to simulate how banks detect financial crime.
->
-> The pipeline ingests synthetic customer, account, and transaction data, then flags six
-> classic money-laundering red flags: structuring, rapid fund movement, round-dollar
-> transactions, high-risk country exposure, watchlist matches, and dormant account
-> reactivation. Each flagged customer gets a composite risk score and a triage disposition
-> (Escalate / Monitor / Close) — just like a real compliance analyst's queue.
->
-> I also built an interactive Tableau dashboard to visualize alert trends, geographic risk
-> exposure, and top flagged accounts.
->
-> Tools: SQLite, SQL, Tableau Public.
-> Code + dashboard + full write-up on GitHub 👇
-> [link]
->
-> #AML #ComplianceAnalytics #DataAnalytics #SQL #Tableau #FinancialCrime
-
-### Resume bullet points
-- Designed and built an end-to-end AML transaction monitoring pipeline in SQL, engineering
-  8 detection queries that identified structuring, rapid fund movement, and high-risk
-  jurisdiction exposure across 3,300+ synthetic transactions.
-- Developed a composite customer risk-scoring model and automated alert triage logic in
-  SQLite, reducing a simulated 200-customer population to 54 prioritized, disposition-ready
-  alerts (Escalate/Monitor/Close).
-- Built an interactive 3-view Tableau dashboard visualizing alert volume trends, geographic
-  risk concentration, and top flagged customers, enabling faster compliance analyst
-  decision-making.
 
 ---
 
