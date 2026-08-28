@@ -1,5 +1,9 @@
 # AML Triage Pipeline — Portfolio Project
 
+**🔗 Live interactive dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/harsh.patel7512/viz/AML_Triage_Dashboard/AmlTriageSummary?publish=yes)
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 A complete, resume-ready Anti-Money Laundering (AML) transaction monitoring and alert triage
 pipeline, built entirely with **DB Browser for SQLite** and **Tableau Public** (both free).
 
