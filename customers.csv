@@ -1,0 +1,201 @@
+customer_id,full_name,date_of_birth,nationality,occupation,customer_since,risk_rating,country_of_residence
+CUST0001,Mateo Clark,1964-10-11,Japan,Import/Export Trader,2023-07-06,High,Ireland
+CUST0002,William Ramirez,1975-07-12,United States,Import/Export Trader,2016-01-15,High,Yemen
+CUST0003,Ahmed Miller,1977-03-17,Germany,Import/Export Trader,2023-03-08,High,Ireland
+CUST0004,Yuki Scott,1956-03-14,France,Small Business Owner,2021-12-08,High,Afghanistan
+CUST0005,Fatima Nguyen,1962-04-02,Syria,Jewelry Dealer,2015-11-23,High,Myanmar
+CUST0006,Joseph Miller,1979-02-07,United States,Currency Exchange Operator,2019-02-25,High,Yemen
+CUST0007,Wei Wilson,1968-12-14,Spain,Small Business Owner,2016-12-01,High,Netherlands
+CUST0008,Mateo Thomas,1959-08-30,Japan,Small Business Owner,2018-08-21,High,Myanmar
+CUST0009,Patricia Anderson,1947-11-18,United Kingdom,Currency Exchange Operator,2021-05-12,High,North Korea
+CUST0010,Arjun Wilson,1989-10-15,France,Real Estate Agent,2016-08-08,High,Switzerland
+CUST0011,Thomas Rodriguez,1967-02-16,Netherlands,Casino Employee,2019-10-21,High,UAE
+CUST0012,Mia Sanchez,1977-06-23,Libya,Casino Employee,2020-07-14,High,United Kingdom
+CUST0013,Jennifer Brown,1954-11-02,Afghanistan,Small Business Owner,2019-09-26,High,Ireland
+CUST0014,Ethan Jones,1979-07-10,France,Casino Employee,2017-10-26,High,India
+CUST0015,Sofia Smith,1955-04-12,Spain,Jewelry Dealer,2023-08-15,High,Ireland
+CUST0016,Priya Davis,1971-05-02,Australia,Small Business Owner,2023-01-26,High,Iran
+CUST0017,Thomas King,1961-01-11,Singapore,Small Business Owner,2018-05-07,High,Spain
+CUST0018,Amara Solis,1962-11-05,Afghanistan,Casino Employee,2023-09-25,High,Syria
+CUST0019,Ava Smith,1998-09-26,United Kingdom,Jewelry Dealer,2024-04-29,High,North Korea
+CUST0020,Viktor Kessler,1950-03-14,Libya,Import/Export Trader,2023-03-17,High,Canada
+CUST0021,Tatiana Orlova,1992-10-16,Afghanistan,Casino Employee,2016-11-07,High,Libya
+CUST0022,Dragan Petrov,1999-06-03,Australia,Small Business Owner,2022-09-26,High,Singapore
+CUST0023,Richard Martin,1980-10-18,Spain,Casino Employee,2020-01-24,High,India
+CUST0024,Linda Thomas,1965-02-27,Syria,Casino Employee,2017-06-21,High,Myanmar
+CUST0025,James Jones,2001-08-14,United States,Teacher,2018-09-15,Low,United States
+CUST0026,John King,1966-05-09,France,Accountant,2021-01-17,Medium,France
+CUST0027,David Nguyen,1996-09-11,India,Jewelry Dealer,2024-01-21,Low,India
+CUST0028,Sven Gonzalez,1953-06-18,Canada,Retired,2019-10-01,Low,Canada
+CUST0029,Sven Robinson,1949-11-11,Switzerland,Import/Export Trader,2015-09-06,Low,Switzerland
+CUST0030,Olga Perez,1954-10-21,Germany,Unemployed,2020-01-12,Low,Germany
+CUST0031,David Ramirez,1961-06-18,France,Retail Manager,2019-12-21,Low,France
+CUST0032,Sofia Miller,1949-07-16,Switzerland,Software Engineer,2016-01-18,Medium,Spain
+CUST0033,Jessica Hernandez,1981-06-18,India,Student,2015-08-29,Low,India
+CUST0034,William Harris,1945-03-12,Japan,Currency Exchange Operator,2018-03-14,Low,Japan
+CUST0035,Diego Torres,1988-08-30,United Kingdom,Accountant,2015-08-28,Low,United Kingdom
+CUST0036,Mia Scott,1950-06-21,UAE,Teacher,2021-07-20,Medium,UAE
+CUST0037,Noah King,1992-08-25,United Kingdom,Casino Employee,2015-11-25,Medium,United Kingdom
+CUST0038,Barbara Jones,1998-05-21,Canada,Real Estate Agent,2019-07-12,Low,Canada
+CUST0039,Linda Nguyen,1967-02-02,Netherlands,Small Business Owner,2015-12-02,Low,Netherlands
+CUST0040,Sven Hill,1995-09-17,Singapore,Restaurant Owner,2017-04-16,Low,Singapore
+CUST0041,Arjun Thomas,1968-10-30,Japan,Construction Contractor,2020-02-16,Low,Japan
+CUST0042,Arjun Jones,1945-11-02,India,Financial Advisor,2016-02-14,Low,India
+CUST0043,John Scott,1964-02-15,Singapore,Retired,2015-10-09,Low,Singapore
+CUST0044,Jessica White,1970-07-27,United Kingdom,Unemployed,2022-11-21,Low,United Kingdom
+CUST0045,Karen Green,1992-06-15,United States,Unemployed,2018-05-11,Low,United States
+CUST0046,Michael Rodriguez,1968-09-23,Canada,Unemployed,2016-09-28,Low,UAE
+CUST0047,Sarah Jackson,1999-04-07,Germany,Accountant,2022-09-16,Low,Germany
+CUST0048,Thomas King,1988-10-30,France,Teacher,2016-01-14,Low,Spain
+CUST0049,Diego Moore,1948-12-15,United States,Consultant,2022-02-22,Low,United States
+CUST0050,Thomas Hernandez,1984-08-22,Singapore,Unemployed,2015-02-09,Medium,Singapore
+CUST0051,Linda Jones,1958-05-17,Singapore,Retired,2021-07-13,Low,Singapore
+CUST0052,Sofia Martinez,1983-07-24,United Kingdom,Retired,2023-12-05,Low,United Kingdom
+CUST0053,Robert Thompson,1963-11-06,Switzerland,Import/Export Trader,2018-12-19,Low,Switzerland
+CUST0054,Sofia Clark,2000-09-06,UAE,Real Estate Agent,2016-10-27,Low,UAE
+CUST0055,Barbara Clark,1947-03-24,United Kingdom,Freelance Artist,2023-10-10,Low,United Kingdom
+CUST0056,Sven Thomas,1968-12-08,United Kingdom,Import/Export Trader,2019-04-16,Low,United Kingdom
+CUST0057,Robert Walker,1964-12-15,Germany,Retired,2018-06-04,Low,India
+CUST0058,Joseph Anderson,1947-02-15,Switzerland,Freelance Artist,2018-02-15,Medium,Switzerland
+CUST0059,John Moore,1976-07-03,Switzerland,Unemployed,2018-09-18,Medium,Switzerland
+CUST0060,Mary Davis,1968-06-08,United Kingdom,Restaurant Owner,2015-06-06,Medium,United Kingdom
+CUST0061,Michael Flores,1983-12-27,Australia,Freelance Artist,2019-11-23,Low,Australia
+CUST0062,Ethan King,1955-05-18,Japan,Restaurant Owner,2015-07-01,Low,Germany
+CUST0063,Diego Smith,1991-08-24,Ireland,Accountant,2019-01-31,Low,Ireland
+CUST0064,Diego Jones,1974-08-16,Netherlands,Import/Export Trader,2023-01-27,Low,Netherlands
+CUST0065,Karen King,1972-09-30,Switzerland,Student,2022-10-26,Low,Switzerland
+CUST0066,Charles Torres,1956-06-02,Germany,Student,2022-08-06,Low,Germany
+CUST0067,Barbara Green,1996-01-22,France,Software Engineer,2018-05-29,Low,France
+CUST0068,Charles Wilson,1983-07-27,Ireland,Freelance Artist,2020-03-19,Medium,Ireland
+CUST0069,Camila Lewis,1964-03-04,Singapore,Physician,2022-05-22,Low,Singapore
+CUST0070,Jennifer Jackson,1991-03-31,Switzerland,Freelance Artist,2016-01-18,Low,Switzerland
+CUST0071,Jessica Martin,1965-02-26,Ireland,Software Engineer,2015-07-09,Low,Ireland
+CUST0072,Jessica Walker,1999-11-04,Spain,Currency Exchange Operator,2019-08-25,Low,Spain
+CUST0073,Lucas Gonzalez,1979-06-14,India,Consultant,2022-05-11,Low,India
+CUST0074,James Miller,1983-02-22,Germany,Casino Employee,2020-03-17,Low,Germany
+CUST0075,Patricia Torres,1967-05-11,Spain,Consultant,2023-12-27,Medium,Spain
+CUST0076,Yuki Wright,1995-02-22,Netherlands,Currency Exchange Operator,2021-11-14,Medium,Netherlands
+CUST0077,Liam Ramirez,1994-02-25,India,Jewelry Dealer,2020-01-18,Medium,UAE
+CUST0078,Thomas Thomas,2002-03-17,France,Casino Employee,2020-06-07,Medium,France
+CUST0079,Jessica Moore,1984-06-18,Canada,Real Estate Agent,2018-01-17,Low,Canada
+CUST0080,Priya Lee,1993-06-17,Canada,Real Estate Agent,2019-04-18,Medium,Canada
+CUST0081,Elizabeth Wilson,1950-10-06,Japan,Unemployed,2020-03-23,Low,Japan
+CUST0082,Sven Brown,1963-07-23,Spain,Financial Advisor,2022-10-19,Low,Spain
+CUST0083,Mary Nguyen,1979-02-16,India,Retired,2018-05-08,Low,India
+CUST0084,Ahmed Clark,1993-04-15,UAE,Small Business Owner,2017-06-22,Low,UAE
+CUST0085,Emma Anderson,1969-06-27,Japan,Student,2018-10-08,Low,Japan
+CUST0086,Olga Hernandez,1986-12-07,United Kingdom,Software Engineer,2019-06-02,Low,Singapore
+CUST0087,Mia Nguyen,1947-06-08,Canada,Consultant,2020-03-06,Medium,Canada
+CUST0088,Barbara Brown,1968-05-04,Japan,Currency Exchange Operator,2018-08-31,Low,Japan
+CUST0089,Priya Harris,1969-12-18,Ireland,Restaurant Owner,2024-05-12,Low,Japan
+CUST0090,Jennifer Walker,1946-09-28,UAE,Retired,2017-07-07,Low,UAE
+CUST0091,John Williams,1947-10-14,Germany,Software Engineer,2021-12-19,Low,Germany
+CUST0092,Elizabeth Thomas,1956-04-29,India,Financial Advisor,2017-06-11,Medium,India
+CUST0093,Yuki Taylor,1978-02-04,United Kingdom,Import/Export Trader,2023-09-21,Low,United Kingdom
+CUST0094,William Martin,1954-09-13,Netherlands,Construction Contractor,2021-06-16,Medium,Netherlands
+CUST0095,Ahmed Sanchez,1962-10-17,Canada,Real Estate Agent,2016-02-22,Medium,Canada
+CUST0096,Karen Flores,1955-11-11,Ireland,Teacher,2018-11-23,Low,Ireland
+CUST0097,Mateo Ramirez,1978-03-31,Canada,Freelance Artist,2015-02-21,Low,Canada
+CUST0098,Sven Young,1954-06-21,Japan,Currency Exchange Operator,2022-12-07,Medium,Switzerland
+CUST0099,Elizabeth Ramirez,1960-10-20,UAE,Restaurant Owner,2021-11-27,Low,UAE
+CUST0100,Mateo Walker,1986-09-15,Japan,Restaurant Owner,2018-08-13,Low,Netherlands
+CUST0101,Jessica Garcia,1970-01-09,India,Currency Exchange Operator,2021-05-23,Medium,India
+CUST0102,Chloe Harris,1975-03-08,United States,Freelance Artist,2017-01-14,Low,United States
+CUST0103,Emma Wilson,1976-10-31,Ireland,Restaurant Owner,2021-09-07,Low,Ireland
+CUST0104,Sarah Torres,1945-11-29,Singapore,Real Estate Agent,2023-01-28,Low,Canada
+CUST0105,Sven Young,1994-10-23,Ireland,Jewelry Dealer,2022-03-30,Medium,Ireland
+CUST0106,Emma Lewis,1946-07-20,Canada,Student,2022-10-04,Low,Canada
+CUST0107,Jessica Martin,1997-03-05,Australia,Casino Employee,2018-11-09,Low,Australia
+CUST0108,Diego Torres,1974-09-05,Australia,Restaurant Owner,2018-06-09,Low,Australia
+CUST0109,Thomas Anderson,1955-10-29,UAE,Import/Export Trader,2023-05-01,Low,UAE
+CUST0110,Mateo Lopez,1962-03-09,Germany,Restaurant Owner,2023-02-15,Low,Germany
+CUST0111,Mia Wright,1998-07-17,France,Accountant,2018-04-28,Low,Spain
+CUST0112,Joseph White,1961-02-05,France,Unemployed,2016-06-02,Low,France
+CUST0113,Sarah Williams,1949-11-22,Singapore,Consultant,2022-02-25,Medium,Singapore
+CUST0114,Emma Miller,1946-02-06,Netherlands,Jewelry Dealer,2019-12-10,Low,Netherlands
+CUST0115,Priya Lopez,1949-08-11,France,Import/Export Trader,2024-03-21,Low,India
+CUST0116,John Sanchez,1989-02-12,Canada,Teacher,2016-09-13,Low,Canada
+CUST0117,Elizabeth Nguyen,1972-04-05,Canada,Unemployed,2023-07-29,Medium,Canada
+CUST0118,Sven Flores,1998-06-25,Ireland,Casino Employee,2019-04-08,Low,Ireland
+CUST0119,Camila Lewis,1971-09-05,Spain,Truck Driver,2018-06-04,Medium,Spain
+CUST0120,Lucas Green,1950-05-28,Netherlands,Accountant,2022-01-06,Low,Canada
+CUST0121,Susan Taylor,1952-04-14,United Kingdom,Unemployed,2015-11-04,Low,United Kingdom
+CUST0122,William Smith,1981-08-26,India,Jewelry Dealer,2018-04-07,Low,India
+CUST0123,Robert Anderson,1970-11-06,UAE,Currency Exchange Operator,2015-10-19,Low,UAE
+CUST0124,Joseph Taylor,2001-01-28,Netherlands,Accountant,2019-10-08,Low,Netherlands
+CUST0125,Linda Scott,1965-03-03,Switzerland,Restaurant Owner,2024-04-08,Low,Switzerland
+CUST0126,Elizabeth Jones,1950-05-09,United Kingdom,Small Business Owner,2023-05-26,Low,United Kingdom
+CUST0127,Lucas Jackson,1984-05-26,Canada,Construction Contractor,2022-11-06,Low,Canada
+CUST0128,Olga Moore,1989-11-25,Singapore,Retail Manager,2021-09-15,Low,Singapore
+CUST0129,Robert Ramirez,1973-12-01,Netherlands,Retail Manager,2017-07-26,Medium,Netherlands
+CUST0130,Lucas Hill,1946-11-11,Ireland,Restaurant Owner,2021-06-18,Low,Ireland
+CUST0131,Robert Lopez,1987-03-19,Singapore,Restaurant Owner,2017-01-13,Low,Singapore
+CUST0132,Mia Ramirez,2001-12-13,Spain,Retail Manager,2020-04-09,Medium,Spain
+CUST0133,Wei Clark,1974-11-26,Australia,Physician,2018-09-12,Low,Australia
+CUST0134,Sven Young,1970-11-10,Switzerland,Unemployed,2015-05-31,Low,Spain
+CUST0135,Yuki Garcia,1973-03-21,France,Student,2020-10-08,Low,France
+CUST0136,James Scott,1986-06-13,Japan,Casino Employee,2019-01-21,Low,Japan
+CUST0137,Chloe Young,2001-02-09,India,Accountant,2017-12-29,Medium,India
+CUST0138,Sofia Rodriguez,1970-11-04,India,Import/Export Trader,2015-04-29,Medium,India
+CUST0139,Ethan Thomas,1959-03-18,France,Unemployed,2019-07-30,Low,France
+CUST0140,Jennifer Anderson,1955-03-07,India,Consultant,2020-08-03,Medium,Switzerland
+CUST0141,Charles King,1969-07-13,Japan,Real Estate Agent,2020-02-14,Medium,India
+CUST0142,Sofia Martinez,1979-06-01,Germany,Consultant,2015-10-13,Low,Singapore
+CUST0143,Sarah Clark,1975-06-30,Ireland,Software Engineer,2018-03-04,Medium,Ireland
+CUST0144,Karen Hill,1997-01-10,Switzerland,Consultant,2020-01-04,Low,Switzerland
+CUST0145,Mateo Walker,1975-12-19,Australia,Unemployed,2019-03-26,Medium,Australia
+CUST0146,Yuki Lee,1961-12-04,UAE,Student,2017-08-14,Medium,UAE
+CUST0147,Sven Williams,1973-07-19,UAE,Student,2019-05-01,Low,UAE
+CUST0148,Elizabeth Young,1948-04-28,United Kingdom,Financial Advisor,2018-09-21,Low,United Kingdom
+CUST0149,Michael Lewis,1953-12-12,Singapore,Consultant,2019-08-07,Low,United States
+CUST0150,Elizabeth Jones,1987-02-14,Ireland,Small Business Owner,2022-10-08,Low,Australia
+CUST0151,Olga Garcia,1974-06-24,Spain,Unemployed,2019-04-06,Medium,Spain
+CUST0152,Arjun Young,1993-07-16,United States,Real Estate Agent,2022-01-29,Medium,United States
+CUST0153,Charles Anderson,1953-02-09,Japan,Import/Export Trader,2019-12-23,Low,Ireland
+CUST0154,William Martin,1947-08-07,United States,Teacher,2018-04-16,Low,United States
+CUST0155,Wei White,1983-08-22,United Kingdom,Truck Driver,2021-05-07,Low,United Kingdom
+CUST0156,Barbara Hernandez,1960-09-15,Canada,Student,2021-12-13,Low,Canada
+CUST0157,Jessica Young,1997-04-26,United Kingdom,Restaurant Owner,2020-02-26,Low,United Kingdom
+CUST0158,Thomas Smith,1986-09-28,France,Physician,2015-10-30,Low,France
+CUST0159,Camila Thompson,1997-09-18,France,Truck Driver,2022-09-28,Medium,France
+CUST0160,Thomas Robinson,1972-02-08,Germany,Jewelry Dealer,2016-03-12,Low,Spain
+CUST0161,Jessica Harris,1996-04-23,Australia,Construction Contractor,2015-03-31,Low,Australia
+CUST0162,Olga Moore,1945-09-23,Netherlands,Teacher,2021-10-19,Low,Ireland
+CUST0163,Emma Jackson,1965-08-24,Netherlands,Accountant,2021-12-18,Low,Germany
+CUST0164,Thomas Rodriguez,2001-05-13,Canada,Teacher,2018-06-19,Medium,Switzerland
+CUST0165,Camila Williams,1996-12-30,Australia,Retail Manager,2018-04-23,Medium,Australia
+CUST0166,Arjun Clark,1960-10-04,Germany,Unemployed,2019-02-07,Low,Germany
+CUST0167,Ava King,1969-06-14,Spain,Jewelry Dealer,2024-01-17,Low,Spain
+CUST0168,Charles Perez,1955-05-02,India,Real Estate Agent,2022-08-02,Low,United Kingdom
+CUST0169,Olga Torres,1977-10-25,Canada,Software Engineer,2017-12-19,Low,Canada
+CUST0170,Mateo Davis,1985-10-20,Australia,Restaurant Owner,2021-07-22,Low,Australia
+CUST0171,Ahmed White,1954-09-21,Switzerland,Software Engineer,2021-12-12,Low,Switzerland
+CUST0172,Sofia Lee,1999-09-26,Germany,Currency Exchange Operator,2022-11-11,Low,Germany
+CUST0173,Karen Clark,1955-06-21,United Kingdom,Teacher,2018-05-31,Low,United Kingdom
+CUST0174,Emma Davis,1953-09-20,Germany,Student,2020-02-02,Low,United Kingdom
+CUST0175,Fatima Scott,1982-08-08,Netherlands,Consultant,2019-08-27,Medium,Netherlands
+CUST0176,Michael Young,2000-03-26,Japan,Teacher,2022-09-28,Low,France
+CUST0177,Fatima Wilson,1984-10-11,India,Retired,2016-02-11,Low,Spain
+CUST0178,Fatima Scott,2002-11-07,Australia,Restaurant Owner,2017-02-16,Low,Australia
+CUST0179,Linda Robinson,1953-03-23,Switzerland,Small Business Owner,2015-03-29,Medium,Switzerland
+CUST0180,Patricia Perez,1966-11-08,United Kingdom,Accountant,2015-10-09,Low,United Kingdom
+CUST0181,Sofia Wilson,1997-08-10,Germany,Freelance Artist,2023-09-07,Low,Germany
+CUST0182,Elizabeth Flores,1945-04-03,France,Consultant,2021-01-21,Medium,United Kingdom
+CUST0183,Thomas Lopez,1954-11-12,Switzerland,Software Engineer,2019-01-07,Low,United Kingdom
+CUST0184,Jessica Hill,1974-01-18,United States,Teacher,2016-06-03,Low,United States
+CUST0185,Sven Wright,1955-03-14,UAE,Currency Exchange Operator,2023-09-22,Low,UAE
+CUST0186,Fatima King,1998-04-06,Canada,Real Estate Agent,2021-11-24,Low,Canada
+CUST0187,Robert Wright,1972-01-23,India,Software Engineer,2015-09-07,Low,India
+CUST0188,Noah Sanchez,1983-03-31,Switzerland,Currency Exchange Operator,2015-10-29,Low,Switzerland
+CUST0189,Jennifer Lee,1999-07-29,United Kingdom,Restaurant Owner,2022-01-01,Low,United Kingdom
+CUST0190,Mia Torres,1974-03-05,Japan,Construction Contractor,2020-02-02,Medium,Singapore
+CUST0191,Liam Flores,1983-08-06,Canada,Import/Export Trader,2022-05-05,Low,Canada
+CUST0192,Sofia Wilson,1983-08-02,India,Freelance Artist,2024-04-12,Low,Japan
+CUST0193,Yuki Sanchez,1982-04-28,UAE,Truck Driver,2018-07-04,Low,UAE
+CUST0194,Thomas White,1958-09-11,Switzerland,Retail Manager,2024-04-29,Low,Canada
+CUST0195,Jennifer Garcia,1983-09-30,Canada,Retired,2024-02-08,Low,Canada
+CUST0196,David Torres,1950-05-20,Netherlands,Freelance Artist,2022-07-07,Low,Singapore
+CUST0197,Linda Clark,1976-09-21,Spain,Truck Driver,2023-02-01,Low,Spain
+CUST0198,Patricia Jackson,1998-11-13,France,Financial Advisor,2020-09-09,Low,France
+CUST0199,Susan Martinez,1988-04-05,Germany,Unemployed,2019-02-14,Low,Australia
+CUST0200,Linda Moore,1996-07-04,Germany,Unemployed,2023-08-10,Low,Spain

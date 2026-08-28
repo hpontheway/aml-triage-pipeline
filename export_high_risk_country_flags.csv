@@ -1,0 +1,296 @@
+transaction_id,account_id,transaction_date,amount,counterparty_country,risk_reason
+TXN000068,ACCT00020,2025-01-07 00:00:00,93443.96,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000119,ACCT00038,2025-01-12 00:00:00,814.78,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000376,ACCT00026,2025-02-09 00:00:00,1363.2,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000378,ACCT00027,2025-02-09 00:00:00,567.87,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000553,ACCT00029,2025-02-27 02:00:00,48747.44,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000951,ACCT00001,2025-04-12 00:00:00,281.35,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000955,ACCT00023,2025-04-12 00:00:00,30000.0,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001000,ACCT00027,2025-04-16 00:00:00,158.48,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001026,ACCT00001,2025-04-19 12:00:00,9532.19,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001142,ACCT00018,2025-05-01 00:00:00,44096.53,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001350,ACCT00013,2025-05-24 00:00:00,26657.16,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001468,ACCT00030,2025-06-08 00:00:00,2088.36,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001783,ACCT00030,2025-07-13 00:00:00,1505.23,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001893,ACCT00041,2025-07-26 00:00:00,902.85,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002234,ACCT00025,2025-08-30 00:00:00,1302.78,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002310,ACCT00121,2025-09-06 00:00:00,26726.8,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002403,ACCT00038,2025-09-15 00:00:00,1065.73,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002498,ACCT00323,2025-09-26 00:00:00,43704.1,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002622,ACCT00031,2025-10-10 00:00:00,761.27,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002670,ACCT00024,2025-10-16 00:00:00,27836.24,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002788,ACCT00006,2025-10-28 00:00:00,31813.56,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002901,ACCT00041,2025-11-08 00:00:00,62844.0,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002969,ACCT00031,2025-11-17 00:00:00,2057.13,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003055,ACCT00002,2025-11-23 00:00:00,39761.5,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003114,ACCT00030,2025-11-30 00:00:00,144.52,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003145,ACCT00029,2025-12-03 00:00:00,140.06,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003204,ACCT00005,2025-12-11 00:00:00,1174.9,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003235,ACCT00014,2025-12-14 00:00:00,219.97,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003323,ACCT00035,2025-12-22 00:00:00,5000.0,Iran,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000116,ACCT00026,2025-01-12 00:00:00,22634.08,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000124,ACCT00026,2025-01-12 04:00:00,21633.03,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000149,ACCT00026,2025-01-16 00:00:00,4942.24,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000158,ACCT00022,2025-01-17 00:00:00,734.17,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000192,ACCT00004,2025-01-20 00:00:00,1715.77,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000267,ACCT00011,2025-01-28 00:00:00,607.76,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000518,ACCT00030,2025-02-23 00:00:00,2407.32,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000712,ACCT00031,2025-03-17 00:00:00,512.33,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000747,ACCT00025,2025-03-21 00:00:00,183.38,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001002,ACCT00020,2025-04-16 10:00:00,9772.34,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001065,ACCT00038,2025-04-23 00:00:00,55771.67,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001134,ACCT00011,2025-04-30 00:00:00,50309.91,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001137,ACCT00025,2025-04-30 11:00:00,9688.57,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001425,ACCT00035,2025-06-02 00:00:00,30000.0,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001426,ACCT00011,2025-06-02 00:00:00,86170.1,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001785,ACCT00014,2025-07-13 05:00:00,9610.75,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001792,ACCT00003,2025-07-14 00:00:00,7584.39,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001805,ACCT00020,2025-07-16 00:00:00,21342.49,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001813,ACCT00025,2025-07-17 00:00:00,2555.6,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001901,ACCT00028,2025-07-27 00:00:00,795.55,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002124,ACCT00040,2025-08-18 00:00:00,845.58,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002261,ACCT00024,2025-09-02 00:00:00,1417.08,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002280,ACCT00010,2025-09-03 02:00:00,9084.13,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002300,ACCT00005,2025-09-05 05:00:00,9799.8,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002317,ACCT00039,2025-09-07 00:00:00,654.31,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002579,ACCT00031,2025-10-04 00:00:00,1039.65,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002748,ACCT00152,2025-10-24 00:00:00,29814.62,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002781,ACCT00028,2025-10-28 00:00:00,145.59,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002942,ACCT00025,2025-11-12 00:00:00,385.71,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003042,ACCT00038,2025-11-22 00:00:00,50792.39,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003219,ACCT00008,2025-12-12 00:00:00,215.83,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003319,ACCT00038,2025-12-22 00:00:00,4007.32,North Korea,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000160,ACCT00005,2025-01-17 00:00:00,445.69,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000306,ACCT00005,2025-02-01 00:00:00,274.56,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000427,ACCT00004,2025-02-14 00:00:00,71.5,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000554,ACCT00012,2025-02-28 00:00:00,215.85,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000670,ACCT00014,2025-03-13 00:00:00,527.98,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000673,ACCT00011,2025-03-13 00:00:00,10000.0,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000720,ACCT00038,2025-03-17 15:00:00,9189.05,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000729,ACCT00038,2025-03-18 01:00:00,9635.55,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000774,ACCT00001,2025-03-23 00:00:00,269.26,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001093,ACCT00029,2025-04-26 00:00:00,48387.52,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001167,ACCT00025,2025-05-02 05:00:00,9204.37,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001413,ACCT00039,2025-06-01 00:00:00,299.38,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001467,ACCT00019,2025-06-08 00:00:00,20000.0,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001469,ACCT00026,2025-06-08 00:00:00,130.37,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001513,ACCT00026,2025-06-12 00:00:00,5000.0,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001529,ACCT00030,2025-06-15 00:00:00,530.47,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001548,ACCT00012,2025-06-18 00:00:00,293.4,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001629,ACCT00026,2025-06-27 00:00:00,1155.01,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001654,ACCT00030,2025-06-29 16:00:00,40518.43,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001763,ACCT00014,2025-07-11 13:00:00,9859.82,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001801,ACCT00005,2025-07-15 00:00:00,1106.97,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001811,ACCT00025,2025-07-16 00:00:00,1757.81,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001927,ACCT00033,2025-07-29 00:00:00,342.44,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001950,ACCT00008,2025-07-31 00:00:00,1279.68,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001953,ACCT00007,2025-07-31 00:00:00,1073.82,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001956,ACCT00003,2025-07-31 00:00:00,1197.9,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002241,ACCT00001,2025-08-31 00:00:00,452.8,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002249,ACCT00041,2025-09-01 00:00:00,89337.71,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002259,ACCT00218,2025-09-02 00:00:00,36280.9,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002312,ACCT00005,2025-09-06 14:00:00,9604.55,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002325,ACCT00005,2025-09-07 12:00:00,9616.73,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002427,ACCT00168,2025-09-17 00:00:00,12513.35,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002440,ACCT00028,2025-09-18 00:00:00,10000.0,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002473,ACCT00032,2025-09-22 00:00:00,697.16,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002489,ACCT00038,2025-09-24 00:00:00,382.9,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002492,ACCT00042,2025-09-25 00:00:00,770.25,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002495,ACCT00031,2025-09-25 00:00:00,1004.83,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002568,ACCT00069,2025-10-03 00:00:00,41121.98,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002575,ACCT00019,2025-10-03 00:00:00,25000.0,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002643,ACCT00196,2025-10-12 00:00:00,38501.26,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002644,ACCT00039,2025-10-13 00:00:00,391.17,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002685,ACCT00019,2025-10-18 00:00:00,34131.09,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002771,ACCT00022,2025-10-27 00:00:00,12981.41,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003209,ACCT00007,2025-12-11 00:00:00,412.54,Syria,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000039,ACCT00025,2025-01-05 00:00:00,115.18,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000043,ACCT00014,2025-01-06 00:00:00,508.32,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000044,ACCT00002,2025-01-06 00:00:00,5000.0,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000139,ACCT00030,2025-01-15 00:00:00,114.11,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000141,ACCT00032,2025-01-15 00:00:00,1668.75,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000145,ACCT00019,2025-01-16 00:00:00,176.52,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000217,ACCT00007,2025-01-23 00:00:00,996.07,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000225,ACCT00001,2025-01-24 00:00:00,198.14,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000694,ACCT00011,2025-03-15 00:00:00,799.42,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000858,ACCT00005,2025-04-02 00:00:00,2315.38,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000912,ACCT00038,2025-04-07 00:00:00,1252.54,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001083,ACCT00040,2025-04-25 00:00:00,1889.68,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001185,ACCT00025,2025-05-04 02:00:00,9397.39,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001269,ACCT00033,2025-05-14 00:00:00,243.2,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001353,ACCT00038,2025-05-25 00:00:00,451.37,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001510,ACCT00027,2025-06-12 00:00:00,2543.54,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001542,ACCT00027,2025-06-17 00:00:00,976.15,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001728,ACCT00008,2025-07-09 00:00:00,4345.06,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001742,ACCT00014,2025-07-10 09:00:00,9241.38,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001891,ACCT00032,2025-07-26 00:00:00,2260.11,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001970,ACCT00032,2025-08-02 00:00:00,1357.5,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001991,ACCT00014,2025-08-03 21:00:00,34212.5,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002071,ACCT00031,2025-08-11 00:00:00,760.4,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002129,ACCT00016,2025-08-19 00:00:00,575.73,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002139,ACCT00007,2025-08-19 00:00:00,249.94,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002205,ACCT00005,2025-08-26 00:00:00,1747.47,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002496,ACCT00031,2025-09-25 00:00:00,1097.77,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002512,ACCT00030,2025-09-27 00:00:00,177.8,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002631,ACCT00008,2025-10-11 00:00:00,306.8,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002655,ACCT00009,2025-10-14 00:00:00,41681.03,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002719,ACCT00010,2025-10-21 00:00:00,27940.55,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002785,ACCT00003,2025-10-28 00:00:00,367.04,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002958,ACCT00040,2025-11-15 00:00:00,21633.91,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003017,ACCT00033,2025-11-21 00:00:00,291.32,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003079,ACCT00029,2025-11-26 00:00:00,41578.35,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003288,ACCT00039,2025-12-19 00:00:00,8324.29,Myanmar,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000014,ACCT00016,2025-01-03 00:00:00,20000.0,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000051,ACCT00041,2025-01-06 00:00:00,78280.32,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000059,ACCT00008,2025-01-07 00:00:00,880.04,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000402,ACCT00025,2025-02-12 00:00:00,437.84,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000404,ACCT00024,2025-02-12 00:00:00,294.03,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000456,ACCT00011,2025-02-17 00:00:00,20000.0,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000549,ACCT00029,2025-02-27 00:00:00,53836.15,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000649,ACCT00038,2025-03-11 00:00:00,31951.83,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000746,ACCT00038,2025-03-20 03:00:00,9380.64,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000798,ACCT00015,2025-03-26 00:00:00,46920.16,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000801,ACCT00038,2025-03-26 00:00:00,10000.0,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000981,ACCT00020,2025-04-14 18:00:00,9123.26,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001272,ACCT00004,2025-05-14 00:00:00,1903.77,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001280,ACCT00031,2025-05-15 00:00:00,1614.08,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001297,ACCT00032,2025-05-18 00:00:00,172.52,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001340,ACCT00003,2025-05-23 00:00:00,727.34,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001503,ACCT00012,2025-06-12 00:00:00,1941.07,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001506,ACCT00003,2025-06-12 00:00:00,1083.6,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001690,ACCT00027,2025-07-03 00:00:00,1180.82,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001932,ACCT00001,2025-07-30 00:00:00,7500.0,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001952,ACCT00007,2025-07-31 00:00:00,507.82,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001974,ACCT00038,2025-08-02 00:00:00,3125.99,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002067,ACCT00020,2025-08-11 00:00:00,75045.67,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002191,ACCT00003,2025-08-24 00:00:00,788.18,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002213,ACCT00004,2025-08-27 00:00:00,136.97,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002288,ACCT00005,2025-09-04 01:00:00,9194.86,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002342,ACCT00012,2025-09-09 00:00:00,512.48,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002355,ACCT00012,2025-09-10 00:00:00,528.54,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002393,ACCT00036,2025-09-14 00:00:00,81793.6,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002413,ACCT00005,2025-09-16 00:00:00,91713.88,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002561,ACCT00001,2025-10-02 00:00:00,622.61,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002673,ACCT00021,2025-10-17 00:00:00,328.83,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002778,ACCT00032,2025-10-28 00:00:00,55.44,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003016,ACCT00041,2025-11-21 00:00:00,31849.63,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003032,ACCT00030,2025-11-22 00:00:00,1924.09,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003099,ACCT00032,2025-11-28 00:00:00,123.74,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003176,ACCT00018,2025-12-06 00:00:00,18773.12,Afghanistan,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000362,ACCT00030,2025-02-07 00:00:00,1928.64,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000415,ACCT00014,2025-02-13 00:00:00,8719.87,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000557,ACCT00042,2025-02-28 00:00:00,562.78,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000569,ACCT00001,2025-03-02 00:00:00,697.43,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000691,ACCT00032,2025-03-15 00:00:00,1888.51,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000781,ACCT00019,2025-03-24 00:00:00,20000.0,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000796,ACCT00039,2025-03-26 00:00:00,407.71,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000803,ACCT00016,2025-03-27 00:00:00,204.89,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001102,ACCT00020,2025-04-27 00:00:00,57564.49,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001192,ACCT00014,2025-05-05 00:00:00,649.29,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001357,ACCT00033,2025-05-25 00:00:00,297.44,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001520,ACCT00028,2025-06-14 00:00:00,796.2,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001621,ACCT00036,2025-06-26 00:00:00,52130.05,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001825,ACCT00030,2025-07-18 00:00:00,445.69,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001826,ACCT00016,2025-07-18 00:00:00,2666.66,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001869,ACCT00033,2025-07-23 00:00:00,492.57,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001928,ACCT00001,2025-07-29 00:00:00,15000.0,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002066,ACCT00027,2025-08-11 00:00:00,299.33,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002078,ACCT00030,2025-08-12 00:00:00,749.65,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002248,ACCT00031,2025-08-31 18:00:00,9376.31,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002256,ACCT00031,2025-09-01 08:00:00,9698.86,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002268,ACCT00031,2025-09-02 16:00:00,9535.84,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002299,ACCT00010,2025-09-05 03:00:00,9288.05,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002478,ACCT00024,2025-09-23 00:00:00,115.23,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002636,ACCT00009,2025-10-12 00:00:00,7500.0,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002693,ACCT00042,2025-10-19 00:00:00,31760.88,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003118,ACCT00032,2025-11-30 00:00:00,92226.41,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003129,ACCT00023,2025-12-02 00:00:00,259.72,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003224,ACCT00038,2025-12-13 00:00:00,289.35,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003241,ACCT00005,2025-12-15 00:00:00,1514.9,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003273,ACCT00011,2025-12-17 00:00:00,4388.87,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003278,ACCT00027,2025-12-18 00:00:00,115.17,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003279,ACCT00148,2025-12-18 00:00:00,12634.94,Yemen,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000055,ACCT00028,2025-01-07 00:00:00,1221.17,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000185,ACCT00002,2025-01-20 00:00:00,10000.0,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000213,ACCT00011,2025-01-22 00:00:00,15000.0,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000391,ACCT00031,2025-02-11 00:00:00,613.75,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000414,ACCT00027,2025-02-13 00:00:00,144.89,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000419,ACCT00002,2025-02-14 00:00:00,22202.94,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000509,ACCT00031,2025-02-23 00:00:00,627.72,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000528,ACCT00012,2025-02-24 00:00:00,2368.77,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000632,ACCT00012,2025-03-09 00:00:00,371.37,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000678,ACCT00001,2025-03-14 00:00:00,862.4,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000849,ACCT00037,2025-04-02 00:00:00,15000.0,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000877,ACCT00016,2025-04-04 00:00:00,83.23,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000886,ACCT00009,2025-04-05 00:00:00,13305.14,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000895,ACCT00005,2025-04-06 00:00:00,27354.63,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000927,ACCT00031,2025-04-09 00:00:00,2387.32,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000988,ACCT00020,2025-04-15 00:00:00,9271.28,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001218,ACCT00011,2025-05-07 00:00:00,1123.22,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001300,ACCT00018,2025-05-18 00:00:00,33078.58,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001331,ACCT00005,2025-05-22 00:00:00,722.02,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001590,ACCT00004,2025-06-22 00:00:00,338.18,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001679,ACCT00011,2025-07-02 00:00:00,8422.75,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001686,ACCT00018,2025-07-03 00:00:00,815.42,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001738,ACCT00039,2025-07-10 00:00:00,643.47,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001949,ACCT00030,2025-07-31 00:00:00,1252.56,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002058,ACCT00028,2025-08-10 00:00:00,344.2,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002123,ACCT00014,2025-08-18 00:00:00,1334.36,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002154,ACCT00001,2025-08-21 00:00:00,109.41,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002164,ACCT00005,2025-08-23 00:00:00,23842.2,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002344,ACCT00031,2025-09-09 00:00:00,537.39,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002388,ACCT00001,2025-09-13 00:00:00,1259.65,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002419,ACCT00021,2025-09-16 00:00:00,34917.49,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002437,ACCT00013,2025-09-18 00:00:00,18040.2,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002726,ACCT00132,2025-10-22 00:00:00,16957.35,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002861,ACCT00053,2025-11-04 00:00:00,40381.07,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002924,ACCT00232,2025-11-10 00:00:00,42012.6,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003015,ACCT00185,2025-11-21 00:00:00,36994.53,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003069,ACCT00031,2025-11-25 00:00:00,417.61,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003121,ACCT00010,2025-12-01 00:00:00,826.22,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003137,ACCT00026,2025-12-02 00:00:00,3198.68,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003154,ACCT00037,2025-12-04 00:00:00,42175.86,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003186,ACCT00017,2025-12-08 00:00:00,28892.72,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003251,ACCT00003,2025-12-16 00:00:00,55385.8,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003322,ACCT00027,2025-12-22 00:00:00,811.24,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003330,ACCT00007,2025-12-23 00:00:00,1877.21,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003342,ACCT00010,2025-12-26 00:00:00,1034.96,Venezuela,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000164,ACCT00031,2025-01-18 00:00:00,234.51,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000276,ACCT00019,2025-01-29 00:00:00,5000.0,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000278,ACCT00005,2025-01-29 00:00:00,784.62,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000293,ACCT00039,2025-01-31 00:00:00,396.39,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000308,ACCT00003,2025-02-01 00:00:00,236.84,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000465,ACCT00011,2025-02-18 00:00:00,173.91,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000533,ACCT00027,2025-02-25 00:00:00,274.85,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000618,ACCT00028,2025-03-07 00:00:00,661.6,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000622,ACCT00001,2025-03-08 00:00:00,697.91,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000654,ACCT00039,2025-03-12 00:00:00,320.24,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000793,ACCT00001,2025-03-25 00:00:00,1819.46,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000811,ACCT00008,2025-03-28 00:00:00,112.31,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000924,ACCT00004,2025-04-09 00:00:00,2443.17,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN000992,ACCT00005,2025-04-16 00:00:00,408.55,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001079,ACCT00041,2025-04-25 00:00:00,1567.83,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001175,ACCT00025,2025-05-03 11:00:00,9694.53,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001209,ACCT00008,2025-05-06 00:00:00,191.59,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001254,ACCT00032,2025-05-12 00:00:00,87207.3,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001267,ACCT00008,2025-05-14 00:00:00,1005.7,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001285,ACCT00031,2025-05-16 00:00:00,347.03,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001523,ACCT00028,2025-06-14 00:00:00,25000.0,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001560,ACCT00033,2025-06-19 00:00:00,563.56,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001691,ACCT00038,2025-07-03 00:00:00,885.25,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001771,ACCT00032,2025-07-12 00:00:00,114.59,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001796,ACCT00028,2025-07-15 00:00:00,847.69,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN001868,ACCT00032,2025-07-23 00:00:00,399.47,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002026,ACCT00038,2025-08-07 00:00:00,23743.32,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002295,ACCT00014,2025-09-05 00:00:00,705.72,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002308,ACCT00024,2025-09-06 00:00:00,125.24,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002461,ACCT00023,2025-09-21 00:00:00,856.42,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002684,ACCT00029,2025-10-18 00:00:00,23109.68,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002757,ACCT00001,2025-10-26 00:00:00,126.28,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN002959,ACCT00027,2025-11-15 00:00:00,62.2,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003018,ACCT00033,2025-11-21 00:00:00,138.39,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003100,ACCT00028,2025-11-28 00:00:00,1784.91,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003139,ACCT00024,2025-12-02 00:00:00,2479.39,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003146,ACCT00033,2025-12-03 00:00:00,228.02,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003311,ACCT00295,2025-12-21 00:00:00,35656.04,Libya,OFAC/FATF sanctioned or high-risk jurisdiction
+TXN003371,ACCT00074,2025-12-30 00:00:00,26809.35,Libya,OFAC/FATF sanctioned or high-risk jurisdiction

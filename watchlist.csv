@@ -1,0 +1,24 @@
+watchlist_id,entity_name,entity_type,risk_reason,list_source,date_added
+WL0001,Iran,Country,OFAC/FATF sanctioned or high-risk jurisdiction,OFAC_FATF,2019-04-02
+WL0002,North Korea,Country,OFAC/FATF sanctioned or high-risk jurisdiction,OFAC_FATF,2018-04-13
+WL0003,Syria,Country,OFAC/FATF sanctioned or high-risk jurisdiction,OFAC_FATF,2021-01-31
+WL0004,Myanmar,Country,OFAC/FATF sanctioned or high-risk jurisdiction,OFAC_FATF,2020-09-30
+WL0005,Afghanistan,Country,OFAC/FATF sanctioned or high-risk jurisdiction,OFAC_FATF,2020-07-03
+WL0006,Yemen,Country,OFAC/FATF sanctioned or high-risk jurisdiction,OFAC_FATF,2019-07-26
+WL0007,Venezuela,Country,OFAC/FATF sanctioned or high-risk jurisdiction,OFAC_FATF,2019-02-24
+WL0008,Libya,Country,OFAC/FATF sanctioned or high-risk jurisdiction,OFAC_FATF,2018-12-23
+WL0009,Viktor Kessler,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2022-04-24
+WL0010,Amara Solis,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2021-05-14
+WL0011,Boris Mikhailov,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2019-03-07
+WL0012,Farid Hosseini,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2019-03-03
+WL0013,Dragan Petrov,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2019-07-11
+WL0014,Chen Wei-Long,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2020-03-23
+WL0015,Malik Osei,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2020-04-21
+WL0016,Ivan Volkov,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2021-10-31
+WL0017,Rashid Al-Amin,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2022-05-17
+WL0018,Tatiana Orlova,Individual,Sanctions list match - politically exposed / designated person,OFAC_SDN,2019-02-24
+WL0019,Kessler Trading Ltd,Organization,Suspected shell company - no verifiable business activity,INTERNAL_INTEL,2023-02-23
+WL0020,Orbis Freight Holdings,Organization,Suspected shell company - no verifiable business activity,INTERNAL_INTEL,2021-02-11
+WL0021,Northgate Exchange Co,Organization,Suspected shell company - no verifiable business activity,INTERNAL_INTEL,2024-01-06
+WL0022,Meridian Capital Partners,Organization,Suspected shell company - no verifiable business activity,INTERNAL_INTEL,2023-08-23
+WL0023,Vantage Import Group,Organization,Suspected shell company - no verifiable business activity,INTERNAL_INTEL,2023-12-07
